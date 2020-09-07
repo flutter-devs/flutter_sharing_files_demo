@@ -1,4 +1,4 @@
-# flutter_sharing_file_demo
+# flutter_sharing_files_demo
 
 A new Flutter application.
 
